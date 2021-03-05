@@ -1,0 +1,15 @@
+/*-------Font Abel-------*/
+@font-face{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+/*-------Font Lexend_Deca-------*/
+@font-face{
+    font-family: Lexend_Deca;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+/*-------Font Livvic-------*/
+@font-face{
+    font-family: Livvic;
+    src: url(../fonts/Livvic/Livvic-Black.ttf);
+}
